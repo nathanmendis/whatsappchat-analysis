@@ -53,7 +53,8 @@ This project provides an interactive web application (built with Streamlit) to a
     * Explore the various analysis and visualization tabs within the Streamlit application.
 
 ## Project Structure
-your_project_directory/
+```
+whatsappchat-analysis/
 ├── chat_parser.py        # Script to parse and process the WhatsApp chat log
 ├── interest_model.pkl    # Pre-trained machine learning model for interest analysis
 ├── model_trainer.py      # Script to train or update the interest model
@@ -61,7 +62,7 @@ your_project_directory/
 ├── streamlit_app.py      # Main Streamlit application script
 └── pages/
 └── 1_Instructions.py # Instructions page for the Streamlit app
-
+```
 ## Contributing
 
 Contributions to this project are welcome! If you have ideas for new features, improvements, or bug fixes, please feel free to:
