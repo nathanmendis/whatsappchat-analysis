@@ -85,4 +85,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-This README provides a comprehensive overview of your WhatsApp Chat Analysis project with the Streamlit application and interest modeling. Remember to replace `[https://github.com/your-username/your-repo-name.git]` with the actual URL of your repository and `path/to/optional/streamlit_app_screenshot.png` with a relevant screenshot if you have one.
