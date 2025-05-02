@@ -2,7 +2,7 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![Streamlit App Demo](https://wa-analysis-randomforest.streamlit.app/)
+
 
 ## Overview
 
@@ -23,7 +23,7 @@ This project provides an interactive web application (built with Streamlit) to a
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git  clone https://github.com/nathanmendis/whatsappchat-analysis
     cd your-repo-name
     ```
 
